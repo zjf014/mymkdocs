@@ -1,0 +1,4 @@
+ 
+# mymkdocs module
+
+::: mymkdocs.mymkdocs
